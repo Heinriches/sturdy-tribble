@@ -1,4 +1,5 @@
 /**
+ * TAKING INPUT
  * The scanf() function is used to take user input based on the given
  * format-specifier. It works similar to the printf() function.
  * For example, let's take an integer from input:
